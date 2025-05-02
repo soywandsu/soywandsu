@@ -8,11 +8,13 @@
 
 ## 🚀 Sobre mim
 
-Atualmente focado em dominar o fullstack e transformar café em código funcional. Tenho paixão por construir coisas que fazem sentido — ou pelo menos que não quebrem na primeira execução.
+Oi, sou o Wanderson Oliveira. Antes de mergulhar de cabeça no desenvolvimento, trabalhei supervisionando redes de telecomunicações em hospitais, onde a pressão era alta — os sistemas precisavam estar sempre no ar. Esse ambiente me ensinou a lidar com estabilidade e urgência, criando soluções rápidas e eficientes para problemas complexos, sem espaço para falhas.
 
-- 🌱 Estudando: React, Node.js, TypeScript
-- 🧠 Foco: Arquitetura limpa, testes e deploys sem drama
-- ⚡ Curiosidades: Meu debugger favorito é o caos
+Foi essa experiência que me levou ao desenvolvimento de software. Como autodidata, comecei a estudar Node.js e backend, e logo percebi que minha verdadeira paixão estava em criar sistemas não só que funcionam, mas que são bem estruturados e fáceis de manter. Aprendi e passei a aplicar conceitos como Clean Architecture, SOLID, DDD, e Clean Code para garantir que o código fosse escalável e sustentável no longo prazo.
+
+Atualmente, estou focado em projetos pessoais que envolvem o desenvolvimento de REST APIs, onde lido com criação de endpoints, validação de dados, autenticação, e testes automatizados. Embora ainda não tenha tido a chance de atuar formalmente como desenvolvedor, minha experiência em ambientes críticos me preparou para escrever código de qualidade, com alta confiabilidade.
+
+Estou em busca de oportunidades para continuar aprendendo, me desafiar e crescer como desenvolvedor. Se você também está nessa jornada, vamos trocar experiências e aprender juntos!
 
 ---
 
@@ -24,6 +26,12 @@ Atualmente focado em dominar o fullstack e transformar café em código funciona
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
+![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=for-the-badge)
 
 ---
 
