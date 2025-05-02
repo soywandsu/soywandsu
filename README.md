@@ -1,30 +1,29 @@
 <h1 align="center">👋 Fala, você chegou!</h1>
 
-<p>
-  Bem-vindo ao meu cantinho digital! Sou o **Wanderson Oliveira**, um desenvolvedor em formação, apaixonado por backend e código limpo. Aqui, estou sempre explorando novas soluções e criando formas de fazer o código funcionar de forma eficiente e sem dor de cabeça. 🚀
-</p>
+Bem-vindo ao meu cantinho digital! Sou o **Wanderson Oliveira**, um desenvolvedor em formação, apaixonado por backend e código limpo. Aqui, estou sempre explorando novas soluções e criando formas de fazer o código funcionar de forma eficiente e sem dor de cabeça. 🚀
 
-<p>
-  Fique à vontade, explore e, quem sabe, a gente aprende junto! 😉
-</p>
+Fique à vontade, explore e, quem sabe, a gente aprende junto! 😉
 
 ---
 
 ## 🚀 Minha História
 
-Antes de mergulhar no universo do desenvolvimento, trabalhei supervisionando redes de telecomunicações em hospitais. Um ambiente onde a pressão é constante — os sistemas precisavam estar sempre no ar, sem espaço para erros. Essa experiência me ensinou a importância da estabilidade, da tomada rápida de decisões e de criar soluções eficazes para problemas complexos.
+Antes de entrar no mundo do desenvolvimento, eu já lidava com alta pressão. Trabalhei supervisionando redes de telecomunicações em hospitais, onde os sistemas precisavam estar 100% operacionais a todo momento — falhas não eram uma opção. Esse ambiente me ensinou a lidar com a urgência, a importância da estabilidade e a criar soluções rápidas e eficazes para problemas complexos, muitas vezes com recursos limitados.
 
-Foi nesse contexto desafiador que descobri minha paixão por tecnologia e comecei a estudar **Node.js** e backend. Como autodidata, me encantei não apenas pela construção de sistemas que funcionam, mas pela necessidade de estruturar código de maneira limpa, modular e sustentável. Aprofundei meus estudos em conceitos como **Clean Architecture**, **SOLID**, **DDD** e **Clean Code**, sempre focando na qualidade do código e na escalabilidade das soluções.
+Foi nesse cenário desafiador que minha paixão por tecnologia floresceu. Como autodidata, comecei a estudar Node.js e backend, e logo percebi que não queria apenas criar sistemas que funcionam — eu queria sistemas bem estruturados, escaláveis e sustentáveis. Fui me aprofundando em conceitos como Clean Architecture, SOLID, DDD e Clean Code, sempre com o objetivo de construir soluções que não precisassem de “remendos” a cada semana.
 
-Hoje, estou concentrado em projetos pessoais, com foco em **REST APIs**. Tenho me dedicado à criação de endpoints, validação de dados, autenticação e implementação de testes automatizados. Apesar de ainda não ter tido minha primeira experiência formal como desenvolvedor, a minha trajetória em ambientes de alta pressão me preparou para escrever código com qualidade e que possa ser confiável e fácil de manter.
-
-Estou sempre em busca de novos desafios, aprendizados e oportunidades para evoluir como profissional. Se você também está nessa jornada de evolução, vamos trocar experiências e crescer juntos!
+Hoje, sou focado em construir sistemas que realmente entregam valor, com código bem escrito, fácil de entender e, claro, sem aquelas dores de cabeça com manutenção. Apesar de ainda não ter tido minha primeira experiência formal como desenvolvedor, minha vivência em ambientes críticos me preparou para escrever código que seja eficiente, confiável e sem margem para erro — porque, convenhamos, quem quer ser o responsável por aquele código que explode toda vez que alguém tenta usá-lo?
 
 ---
 
 ## 🎯 Objetivos
 
-Hoje, meu foco é continuar evoluindo no **Node.js** e **TypeScript**, melhorar a performance das minhas aplicações backend, e me aprofundar em **cloud computing** e **microservices**. A longo prazo, quero me envolver com projetos open-source e talvez até me aventurar em **DevOps**. Acredito que a diversidade de conhecimento é o que vai me levar para o próximo nível na minha carreira.
+- **Aprimorar habilidades** em **Node.js** e **TypeScript**
+- **Aprofundar em cloud computing** e **microservices**
+- **Melhorar a performance** das minhas aplicações backend
+- **Explorar e me aprofundar em Inteligência Artificial**
+
+Estou em busca de **novas oportunidades** para aplicar meus conhecimentos, continuar evoluindo como desenvolvedor e explorar novas tecnologias. Se você procura alguém comprometido e focado em entregar qualidade, vamos conversar!
 
 ---
 
