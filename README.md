@@ -48,9 +48,10 @@ Atualmente focado em dominar o fullstack e transformar café em código funciona
 
 ## 📫 Contato
 
-- ✉️ [seuemail@email.com](mailto:seuemail@email.com)
-- 🌐 [seu-site.vercel.app](https://seu-site.vercel.app)
-- 🐦 [@seuTwitter](https://twitter.com/seuTwitter)
+- ✉️ [wandersontj2@gmail.com](mailto:wandersontj2@gmail.com)
+- 📁 [Meus repositórios no GitHub](https://github.com/soywandsu)
+  <!-- - 🌐 [seu-site.vercel.app](https://seu-site.vercel.app) -->
+  <!-- - 🐦 [@seuTwitter](https://twitter.com/seuTwitter) -->
 
 ---
 
