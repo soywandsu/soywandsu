@@ -59,7 +59,7 @@ Estou em busca de **novas oportunidades** para aplicar meus conhecimentos, conti
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="justify">
   <img src="https://github-readme-stats.vercel.app/api?username=soywandsu&show_icons=true&theme=tokyonight" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soywandsu&layout=compact&theme=tokyonight" height="150"/>
 </div>
